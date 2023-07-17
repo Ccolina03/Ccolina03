@@ -2,7 +2,7 @@
 
 - 🎓  Bachelor's of Computer Engineering - University of Alberta (2026)
 - 💭  "_A Leetcode a day keeps unemployment away_"
-- 🌏  Come visit [my website](https://fasterin-mmb7-ccolina03.vercel.app/)
+- 🌏  Come visit [my website](https://carlitos-colina.vercel.app/)
 - 🌳  Why not try again?
 
  ⚽️ 🇨🇦 ⛳️ 🍔 🤠 🎿 

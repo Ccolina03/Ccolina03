@@ -13,6 +13,6 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">  </code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-ar21.svg"> </code>
+<img height="40" src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg">
 <code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 

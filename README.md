@@ -1,7 +1,7 @@
 ## Hola, I'm Carlos. 👋 
 
 - 🎓  Bachelor's of Computer Engineering - University of Alberta (2026)
-- 🍁  SWE Intern @ Confluent | Prev Intern @ Ovintiv, @ Litespace and @ UAlberta
+- 🍁  SWE @ Confluent | Prev Intern @ Confluent, @ Ovintiv, @ Litespace and @ UAlberta
 - 🌏  Come visit [my website](https://carlitos-colina.vercel.app/)
 - 🌳  Why not try again?
 
